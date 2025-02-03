@@ -6,50 +6,50 @@
 		"url": "https://github.com/JimmyLoloy98/Portfolio_Astro"
 	},
 	{
-		"name": "Sistema de Evaluación Alumno Docente",
-		"description": "Software que automatiza el proceso de evaluación docente mediante encuestas.",
+		"name": "Student Teacher Evaluation System",
+		"description": "Software that automates the teacher evaluation process by means of surveys..",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738613898/portfolio/example_qo1xbk.jpg",
 		"url": "https://github.com/JimmyLoloy98/sead-test-back"
 	},
 	{
 		"name": "Cancha Libre",
-		"description": "Ayudamos a los aficionados al deporte a hacer sus reservas de espacios deportivos.",
+		"description": "We help sports enthusiasts to make their sports venue reservations.",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738613245/portfolio/canchalibre_igap18.png",
 		"url": "https://canchalibre.pro/"
 	},
 	{
-		"name": "Sistema de Apoyo a la Investigaciones",
-		"description": "Aplicación web que gestiona de investigaciones de docentes, estudiantes y administrativos.",
+		"name": "Research Support System",
+		"description": "Web application that manages faculty, student and administrative research..",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738613898/portfolio/example_qo1xbk.jpg",
 		"url": "https://github.com/JimmyLoloy98/sapi_old"
 	},
 	{
 		"name": "Tingo Services",
-		"description": "Sitio web para mostrar y crear servicios diarios.",
+		"description": "Website to display and create daily services.",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738613318/portfolio/services_c5u0qn.png",
 		"url": "https://tingo-services.vercel.app/"
 	},
 	{
 		"name": "Grupo Romero Newsletter",
-		"description": "Noticiero web para el Grupo Romero.",
+		"description": "Web newscast for the Romero Group.",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738613412/portfolio/romero_m9ngqx.png",
 		"url": "http://www.gruporomero.com.pe/"
 	},
 	{
 		"name": "Yaleth's Baby Store",
-		"description": "Sitio web de e-commerce para venta de productos de bebes y madres.",
+		"description": "E-commerce website for sale of baby and mother's products.",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738613898/portfolio/example_qo1xbk.jpg",
 		"url": "https://github.com/JimmyLoloy98/BabyStore"
 	},
 	{
 		"name": "My Daily Bootcamp",
-		"description": "Mini red social para compartir ideas y conversar con otras personas.",
+		"description": "Mini social network to share ideas and converse with others.",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738613898/portfolio/example_qo1xbk.jpg",
 		"url": "https://github.com/JimmyLoloy98/my-daily-bootcamp-react"
 	},
 	{
 		"name": "OpenTech",
-		"description": "Sitio web de la comunidad de entusiastas por la tecnología.",
+		"description": "Technology enthusiast community website.",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738613564/portfolio/opentech_ar9gyb.png",
 		"url": "opentech.pe"
 	}

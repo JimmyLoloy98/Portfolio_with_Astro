@@ -3,21 +3,21 @@
 		"dates": "June 2024 · December 2024",
 		"role": "Software Developer",
 		"company": "OTI - UNAS",
-		"description": "Responsible for customer service and CRM system front-end development.",
+		"description": "Responsible for front-end development and build API RESTful services.",
 		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738612844/portfolio/oti_ral5nl.ico"
 	},
 	{
 		"dates": "August 2021 · January 2022",
 		"role": "Software Developer",
 		"company": "Lead Working Partner (LWP)",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
+		"description": "Responsible for web front-end development and build API RESTful endpoints.",
 		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738612844/portfolio/lwp_pdqkwv.ico"
 	},
 	{
 		"dates": "January 2021 · August 2021 ",
 		"role": "Web Designer (WOZ)",
 		"company": "Web-Out",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
+		"description": "Developer, involved in the development of views with HTML, CSS and JS.",
 		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738612844/portfolio/woz_uxwkpy.ico"
 	}
 ]
