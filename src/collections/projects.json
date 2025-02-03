@@ -24,6 +24,12 @@
 		"url": "https://github.com/JimmyLoloy98/sapi_old"
 	},
 	{
+		"name": "Tingo Services",
+		"description": "Sitio web para mostrar y crear servicios diarios.",
+		"image": "/assets/images/projects/image.png",
+		"url": "https://tingo-services.vercel.app/"
+	},
+	{
 		"name": "Grupo Romero Newsletter",
 		"description": "Noticiero web para el Grupo Romero.",
 		"image": "/assets/images/projects/image.png",
