@@ -1,0 +1,50 @@
+[
+	{
+		"name": "My Portfolio Website",
+		"description": "This is my personal portfolio website.",
+		"image": "/assets/images/projects/image.png",
+		"url": "https://github.com/JimmyLoloy98/Portfolio_Astro"
+	},
+	{
+		"name": "Sistema de Evaluación Alumno Docente",
+		"description": "Software que automatiza el proceso de evaluación docente mediante encuestas.",
+		"image": "/assets/images/projects/image.png",
+		"url": "https://github.com/JimmyLoloy98/sead-test-back"
+	},
+	{
+		"name": "Cancha Libre",
+		"description": "Ayudamos a los aficionados al deporte a hacer sus reservas de espacios deportivos.",
+		"image": "/assets/images/projects/image.png",
+		"url": "https://canchalibre.pro/"
+	},
+	{
+		"name": "Sistema de Apoyo a la Investigaciones",
+		"description": "Aplicación web que gestiona de investigaciones de docentes, estudiantes y administrativos.",
+		"image": "/assets/images/projects/image.png",
+		"url": "https://github.com/JimmyLoloy98/sapi_old"
+	},
+	{
+		"name": "Grupo Romero Newsletter",
+		"description": "Noticiero web para el Grupo Romero.",
+		"image": "/assets/images/projects/image.png",
+		"url": "https://github.com/JimmyLoloy98/GrupoRomeroSASS"
+	},
+	{
+		"name": "Yaleth's Baby Store",
+		"description": "Sitio web de e-commerce para venta de productos de bebes y madres.",
+		"image": "/assets/images/projects/image.png",
+		"url": "https://github.com/JimmyLoloy98/BabyStore"
+	},
+	{
+		"name": "My Daily Bootcamp",
+		"description": "Mini red social para compartir ideas y conversar con otras personas.",
+		"image": "/assets/images/projects/image.png",
+		"url": "https://github.com/JimmyLoloy98/my-daily-bootcamp-react"
+	},
+	{
+		"name": "OpenTech",
+		"description": "Sitio web de la comunidad de entusiastas por la tecnología.",
+		"image": "/assets/images/projects/image.png",
+		"url": "https://github.com/opentech-pe/opentech.pe"
+	}
+]
