@@ -9,7 +9,7 @@ I've been digging into this whole AI thing for front-end development lately, and
 
 Basically, I use [Bolt.new](https://bolt.new) to introduce a prompt with specific parameters and I got code made in Next.js. Long story short, you can now use AI to make amazing websites or designs with your requisites. And get this, it only takes some seconds to return the code to you!
 
-Here's the link to the slides from this lightning talk: [My first website without code](https://html.zone/background-remover)
+Here's the link to the slides from this lightning talk: [My first website without code](https://docs.google.com/presentation/d/11JcjyZfgS-KO2-VyscQrHMabMrZPvL6TecCYfQvuMQU/edit?usp=drive_link)
 
 ![My first website without code - image](https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738806969/portfolio/talk_bolt_nwsdep.png)
 
