@@ -11,7 +11,7 @@ Basically, I use [Bolt.new](https://bolt.new) to introduce a prompt with specifi
 
 Here's the link to the slides from this lightning talk: [My first website without code](https://docs.google.com/presentation/d/11JcjyZfgS-KO2-VyscQrHMabMrZPvL6TecCYfQvuMQU/edit?usp=drive_link)
 
-![My first website without code - image](https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738806969/portfolio/talk_bolt_nwsdep.png)
+[![My first website without code - image]](https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738806969/portfolio/talk_bolt_nwsdep.png)
 
 And, the link of the results: [Cancha Libre](https://canchalibre.pro)
 
