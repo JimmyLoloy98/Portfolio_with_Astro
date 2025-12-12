@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/post.astro
+
 title: Me VS Impostor Syndrome
 description: Lightning talk on how I deal with impostor syndrome
 dateFormatted: Jul 19, 2022

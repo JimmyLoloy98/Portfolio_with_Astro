@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/post.astro
+
 title: Single commits with GPG key on Windows
 description: A presentation at the beginning of OpenTech meetups.
 dateFormatted: Jan 6, 2022

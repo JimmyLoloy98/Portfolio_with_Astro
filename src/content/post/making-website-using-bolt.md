@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/post.astro
+
 title: My firt website without code
 description: How I used AI to create the website of Cancha Libre using Bolt.new
 dateFormatted: Oct 25, 2024

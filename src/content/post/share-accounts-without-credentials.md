@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/post.astro
+
 title: Share accounts without having to share your credentials
 description: Lightning talk on how to share accounts without having to share your credentials
 dateFormatted: Dec 12, 2019
