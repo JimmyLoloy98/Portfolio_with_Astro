@@ -1,23 +1,30 @@
 [
 	{
-		"dates": "June 2024 · December 2024",
-		"role": "Software Developer",
-		"company": "OTI - UNAS",
-		"description": "Responsible for front-end development and build API RESTful services.",
+		"dates": "Abril 2025 - Diciembre 2025",
+		"role": "Desarrollador Frontend",
+		"company": "Enviame SPA Latam",
+		"description": "Implemento el frontend de la plataforma, usando Vue2 y 3 con JS y TS y Bootstrap. Integración con el servicio backend mediante APIs RESTful. Análisis de código con SonarQube y Postman, pruebas automatizadas con Cypress y Playwright.",
+		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1765557791/logo-env_nlatet.png"
+	},
+	{
+		"dates": "Marzo 2025 - Actual",
+		"role": "Desarrollador Frontend - (Part Time)",
+		"company": "TICA Solutions",
+		"description": "Implemento el frontend de las aplicaciones, usando React con Typescript y ShadcnUI. Integración con el servicio backend mediante APIs RESTful. Participo en la definición de requisitos y el diseño arquitectónico de un ERP académico.",
+		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1765557590/tica-logo_etg8nb.png"
+	},
+	{
+		"dates": "Junio 2024 - Diciembre 2024",
+		"role": "Desarrollador de Software",
+		"company": "Oficina de Tecnologías de la Información – UNAS",
+		"description": "Diseñé y desarrollé el módulo para encuestas de apreciación docente usando Ruby on Rails. Implementación de servicio APIs RESTful. Realicé pruebas automatizadas con RSpec. Participé en la definición de requisitos y el diseño arquitectónico del sistema.",
 		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738612844/portfolio/oti_ral5nl.ico"
 	},
 	{
-		"dates": "August 2021 · January 2022",
-		"role": "Software Developer",
+		"dates": "Agosto 2021 - Enero 2022",
+		"role": "Desarrollador de Software",
 		"company": "Lead Working Partner (LWP)",
-		"description": "Responsible for web front-end development and build API RESTful endpoints.",
+		"description": "Miembro del equipo que desarrollo el software administrativo para la gestión de investigaciones en la UNAS, mejorando el control y la generación de reportes para docentes, estudiantes y personal administrativo. La aplicación web fue construida con Vue.js y AntDesign, asegurando una experiencia de usuario óptima. Diseñé y gestioné bases de datos con PostgreSQL, asegurando integridad y rendimiento.",
 		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738612844/portfolio/lwp_pdqkwv.ico"
-	},
-	{
-		"dates": "January 2021 · August 2021 ",
-		"role": "Web Designer (WOZ)",
-		"company": "Web-Out",
-		"description": "Developer, involved in the development of views with HTML, CSS and JS.",
-		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738612844/portfolio/woz_uxwkpy.ico"
 	}
 ]
