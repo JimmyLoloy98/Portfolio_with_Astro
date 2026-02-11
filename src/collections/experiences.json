@@ -1,17 +1,17 @@
 [
+  {
+    "dates": "Marzo 2025 - Actual",
+    "role": "Desarrollador Frontend - (Part Time)",
+    "company": "TICA Solutions",
+    "description": "Implemento el frontend de las aplicaciones, usando React con Typescript y ShadcnUI. Integración con el servicio backend mediante APIs RESTful. Participo en la definición de requisitos y el diseño arquitectónico de un ERP académico.",
+    "logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1765557590/tica-logo_etg8nb.png"
+  },
 	{
 		"dates": "Abril 2025 - Diciembre 2025",
 		"role": "Desarrollador Frontend",
 		"company": "Enviame SPA Latam",
 		"description": "Implemento el frontend de la plataforma, usando Vue2 y 3 con JS y TS y Bootstrap. Integración con el servicio backend mediante APIs RESTful. Análisis de código con SonarQube y Postman, pruebas automatizadas con Cypress y Playwright.",
 		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1765557791/logo-env_nlatet.png"
-	},
-	{
-		"dates": "Marzo 2025 - Actual",
-		"role": "Desarrollador Frontend - (Part Time)",
-		"company": "TICA Solutions",
-		"description": "Implemento el frontend de las aplicaciones, usando React con Typescript y ShadcnUI. Integración con el servicio backend mediante APIs RESTful. Participo en la definición de requisitos y el diseño arquitectónico de un ERP académico.",
-		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1765557590/tica-logo_etg8nb.png"
 	},
 	{
 		"dates": "Junio 2024 - Diciembre 2024",
