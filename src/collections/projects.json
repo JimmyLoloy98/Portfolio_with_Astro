@@ -1,5 +1,17 @@
 [
-	{
+  {
+		"name": "Cancha Libre - App Web",
+		"description": "App para reservas de canchas deportivas, con sistema de autenticación multi-tenant y panel de administración.",
+		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1774921248/335a9bc2-965e-40b2-b7b0-9c0f1d075015.png",
+		"url": "https://github.com/JimmyLoloy98"
+	},
+  {
+		"name": "Pedidos para Restaurante",
+		"description": "Software for managing menu orders for the Panchito Falcón restaurant.",
+		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1774916360/e5b2768c-e1f9-4a74-b19a-90792af65c9f.png",
+		"url": "https://github.com/JimmyLoloy98/Orders-Manager-UI"
+	},
+  {
 		"name": "Gestion de chatarrerias",
 		"description": "Software that manages the purchase and sale of scrap metal.",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1770823846/portfolio/scraps_image_m9lkyj.png",
@@ -18,7 +30,7 @@
 		"url": "https://github.com/JimmyLoloy98/sead-test-back"
 	},
 	{
-		"name": "Cancha Libre",
+		"name": "Cancha Libre - Landing Page",
 		"description": "We help sports enthusiasts to make their sports venue reservations.",
 		"image": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738613245/portfolio/canchalibre_igap18.png",
 		"url": "https://github.com/JimmyLoloy98/CanchaLibre"

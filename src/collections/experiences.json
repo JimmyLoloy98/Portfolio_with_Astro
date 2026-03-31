@@ -10,21 +10,28 @@
 		"dates": "Abril 2025 - Diciembre 2025",
 		"role": "Desarrollador Frontend",
 		"company": "Enviame SPA Latam",
-		"description": "Implemento el frontend de la plataforma, usando Vue2 y 3 con JS y TS y Bootstrap. Integración con el servicio backend mediante APIs RESTful. Análisis de código con SonarQube y Postman, pruebas automatizadas con Cypress y Playwright.",
+		"description": "Implementé el frontend de la plataforma, usando Vue2 y 3 con JS y TS y Bootstrap. Integración con servicios backend mediante APIs RESTful, Firebase y Shopify. Análisis de código con SonarQube y Postman, pruebas automatizadas con Cypress y Playwright.",
 		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1765557791/logo-env_nlatet.png"
 	},
 	{
-		"dates": "Junio 2024 - Diciembre 2024",
+		"dates": "Abril 2023 - Enero 2024",
 		"role": "Desarrollador de Software",
 		"company": "Oficina de Tecnologías de la Información – UNAS",
-		"description": "Diseñé y desarrollé el módulo para encuestas de apreciación docente usando Ruby on Rails. Implementación de servicio APIs RESTful. Realicé pruebas automatizadas con RSpec. Participé en la definición de requisitos y el diseño arquitectónico del sistema.",
+		"description": "Lideré el equipo que diseñó y desarrolló el módulo para encuestas de apreciación docente. Implementación de servicio APIs RESTful usando Ruby on Rails + PostgreSQL y pruebas automatizadas con RSpec. Iniciando desde la definición de requisitos, el diseño UI y la arquitectura de la aplicación.",
 		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738612844/portfolio/oti_ral5nl.ico"
 	},
 	{
-		"dates": "Agosto 2021 - Enero 2022",
+		"dates": "Mayo 2022 - Febrero 2023",
 		"role": "Desarrollador de Software",
 		"company": "Lead Working Partner (LWP)",
-		"description": "Miembro del equipo que desarrollo el software administrativo para la gestión de investigaciones en la UNAS, mejorando el control y la generación de reportes para docentes, estudiantes y personal administrativo. La aplicación web fue construida con Vue.js y AntDesign, asegurando una experiencia de usuario óptima. Diseñé y gestioné bases de datos con PostgreSQL, asegurando integridad y rendimiento.",
+		"description": "Desarrollé el software administrativo para la gestión de investigaciones de la Universidad, mejorando el control y la generación de reportes para docentes, estudiantes y personal administrativo. La aplicación web fue construida con Vue.js y AntDesign para la interfaz y Laravel + PostgreSQL para los servicios API RESTful.",
+		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738612844/portfolio/lwp_pdqkwv.ico"
+	},
+  {
+		"dates": "Agosto 2021 - Febrero 2022",
+		"role": "Maquetador Web",
+		"company": "Web-Out",
+		"description": "Construí maquetas web para diversos clientes, asegurando una experiencia de usuario óptima. Con tecnología como HTML, CSS y JavaScript, para asegurar la calidad y el rendimiento de las interfaces.",
 		"logo": "https://res.cloudinary.com/dmlv9g4kn/image/upload/v1738612844/portfolio/lwp_pdqkwv.ico"
 	}
 ]
